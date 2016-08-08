@@ -1,0 +1,23 @@
+version 0:
+
+Aim: outline all fundamental features, i.e. the minimum that will allow us to put this app on google play.
+
+#activity: 4
+    -menu:          see all the photo folders
+    -folder:        1 layer deeper than menu, show all photos inside the photo
+    -photo viewer:  2 layers deeper than menu, show the photo selected
+
+    -setting:       display various setting of the app
+
+    -confirm page: (toggleable) confirmation that allows users to either accept or discard the capped image
+
+    
+#service: 0 (we probably won't run any long-running operation)
+
+#content provider:
+
+    -saver:         save capped image to private storage
+
+#broadcast receover:
+
+    -notifier:      (toggleable) alert after saving a image 
