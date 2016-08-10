@@ -7,48 +7,8 @@
                     "startLine": 2,
                     "startColumn": 4,
                     "startOffset": 55,
-                    "endColumn": 68,
-                    "endOffset": 119
-                },
-                "from": {
-                    "file": "/Users/sunghunjung/Desktop/EzShot/EzShotBeta/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 223,
-                        "endColumn": 68,
-                        "endOffset": 287
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 124,
-                    "endLine": 8,
-                    "endColumn": 16,
-                    "endOffset": 440
-                },
-                "from": {
-                    "file": "/Users/sunghunjung/Desktop/EzShot/EzShotBeta/app/src/main/res/values-v21/styles.xml",
-                    "position": {
-                        "startLine": 1,
-                        "startColumn": 12,
-                        "startOffset": 25,
-                        "endLine": 6,
-                        "endColumn": 16,
-                        "endOffset": 341
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 9,
-                    "startColumn": 4,
-                    "startOffset": 445,
                     "endColumn": 90,
-                    "endOffset": 531
+                    "endOffset": 141
                 },
                 "from": {
                     "file": "/Users/sunghunjung/Desktop/EzShot/EzShotBeta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
@@ -63,11 +23,11 @@
             },
             {
                 "to": {
-                    "startLine": 10,
+                    "startLine": 3,
                     "startColumn": 4,
-                    "startOffset": 536,
+                    "startOffset": 146,
                     "endColumn": 102,
-                    "endOffset": 634
+                    "endOffset": 244
                 },
                 "from": {
                     "file": "/Users/sunghunjung/Desktop/EzShot/EzShotBeta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
@@ -82,11 +42,11 @@
             },
             {
                 "to": {
-                    "startLine": 11,
+                    "startLine": 4,
                     "startColumn": 4,
-                    "startOffset": 639,
+                    "startOffset": 249,
                     "endColumn": 102,
-                    "endOffset": 737
+                    "endOffset": 347
                 },
                 "from": {
                     "file": "/Users/sunghunjung/Desktop/EzShot/EzShotBeta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
@@ -101,11 +61,11 @@
             },
             {
                 "to": {
-                    "startLine": 12,
+                    "startLine": 5,
                     "startColumn": 4,
-                    "startOffset": 742,
+                    "startOffset": 352,
                     "endColumn": 104,
-                    "endOffset": 842
+                    "endOffset": 452
                 },
                 "from": {
                     "file": "/Users/sunghunjung/Desktop/EzShot/EzShotBeta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
@@ -120,11 +80,11 @@
             },
             {
                 "to": {
-                    "startLine": 13,
+                    "startLine": 6,
                     "startColumn": 4,
-                    "startOffset": 847,
+                    "startOffset": 457,
                     "endColumn": 106,
-                    "endOffset": 949
+                    "endOffset": 559
                 },
                 "from": {
                     "file": "/Users/sunghunjung/Desktop/EzShot/EzShotBeta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
@@ -139,11 +99,11 @@
             },
             {
                 "to": {
-                    "startLine": 14,
+                    "startLine": 7,
                     "startColumn": 4,
-                    "startOffset": 954,
+                    "startOffset": 564,
                     "endColumn": 108,
-                    "endOffset": 1058
+                    "endOffset": 668
                 },
                 "from": {
                     "file": "/Users/sunghunjung/Desktop/EzShot/EzShotBeta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
@@ -158,11 +118,11 @@
             },
             {
                 "to": {
-                    "startLine": 15,
+                    "startLine": 8,
                     "startColumn": 4,
-                    "startOffset": 1063,
+                    "startOffset": 673,
                     "endColumn": 108,
-                    "endOffset": 1167
+                    "endOffset": 777
                 },
                 "from": {
                     "file": "/Users/sunghunjung/Desktop/EzShot/EzShotBeta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
@@ -177,11 +137,11 @@
             },
             {
                 "to": {
-                    "startLine": 16,
+                    "startLine": 9,
                     "startColumn": 4,
-                    "startOffset": 1172,
+                    "startOffset": 782,
                     "endColumn": 108,
-                    "endOffset": 1276
+                    "endOffset": 886
                 },
                 "from": {
                     "file": "/Users/sunghunjung/Desktop/EzShot/EzShotBeta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
@@ -196,11 +156,11 @@
             },
             {
                 "to": {
-                    "startLine": 17,
+                    "startLine": 10,
                     "startColumn": 4,
-                    "startOffset": 1281,
+                    "startOffset": 891,
                     "endColumn": 108,
-                    "endOffset": 1385
+                    "endOffset": 995
                 },
                 "from": {
                     "file": "/Users/sunghunjung/Desktop/EzShot/EzShotBeta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
@@ -215,11 +175,11 @@
             },
             {
                 "to": {
-                    "startLine": 18,
+                    "startLine": 11,
                     "startColumn": 4,
-                    "startOffset": 1390,
+                    "startOffset": 1000,
                     "endColumn": 108,
-                    "endOffset": 1494
+                    "endOffset": 1104
                 },
                 "from": {
                     "file": "/Users/sunghunjung/Desktop/EzShot/EzShotBeta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
@@ -234,11 +194,11 @@
             },
             {
                 "to": {
-                    "startLine": 19,
+                    "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 1499,
+                    "startOffset": 1109,
                     "endColumn": 106,
-                    "endOffset": 1601
+                    "endOffset": 1211
                 },
                 "from": {
                     "file": "/Users/sunghunjung/Desktop/EzShot/EzShotBeta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
@@ -253,11 +213,11 @@
             },
             {
                 "to": {
-                    "startLine": 20,
+                    "startLine": 13,
                     "startColumn": 4,
-                    "startOffset": 1606,
+                    "startOffset": 1216,
                     "endColumn": 102,
-                    "endOffset": 1704
+                    "endOffset": 1314
                 },
                 "from": {
                     "file": "/Users/sunghunjung/Desktop/EzShot/EzShotBeta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
@@ -272,11 +232,11 @@
             },
             {
                 "to": {
-                    "startLine": 21,
+                    "startLine": 14,
                     "startColumn": 4,
-                    "startOffset": 1709,
+                    "startOffset": 1319,
                     "endColumn": 118,
-                    "endOffset": 1823
+                    "endOffset": 1433
                 },
                 "from": {
                     "file": "/Users/sunghunjung/Desktop/EzShot/EzShotBeta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
@@ -291,12 +251,12 @@
             },
             {
                 "to": {
-                    "startLine": 22,
+                    "startLine": 15,
                     "startColumn": 4,
-                    "startOffset": 1828,
-                    "endLine": 23,
+                    "startOffset": 1438,
+                    "endLine": 16,
                     "endColumn": 12,
-                    "endOffset": 1978
+                    "endOffset": 1588
                 },
                 "from": {
                     "file": "/Users/sunghunjung/Desktop/EzShot/EzShotBeta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
@@ -312,12 +272,12 @@
             },
             {
                 "to": {
-                    "startLine": 24,
+                    "startLine": 17,
                     "startColumn": 4,
-                    "startOffset": 1983,
-                    "endLine": 25,
+                    "startOffset": 1593,
+                    "endLine": 18,
                     "endColumn": 12,
-                    "endOffset": 2133
+                    "endOffset": 1743
                 },
                 "from": {
                     "file": "/Users/sunghunjung/Desktop/EzShot/EzShotBeta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
@@ -333,11 +293,11 @@
             },
             {
                 "to": {
-                    "startLine": 26,
+                    "startLine": 19,
                     "startColumn": 4,
-                    "startOffset": 2138,
+                    "startOffset": 1748,
                     "endColumn": 104,
-                    "endOffset": 2238
+                    "endOffset": 1848
                 },
                 "from": {
                     "file": "/Users/sunghunjung/Desktop/EzShot/EzShotBeta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
@@ -352,11 +312,11 @@
             },
             {
                 "to": {
-                    "startLine": 27,
+                    "startLine": 20,
                     "startColumn": 4,
-                    "startOffset": 2243,
+                    "startOffset": 1853,
                     "endColumn": 120,
-                    "endOffset": 2359
+                    "endOffset": 1969
                 },
                 "from": {
                     "file": "/Users/sunghunjung/Desktop/EzShot/EzShotBeta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
@@ -371,11 +331,11 @@
             },
             {
                 "to": {
-                    "startLine": 28,
+                    "startLine": 21,
                     "startColumn": 4,
-                    "startOffset": 2364,
+                    "startOffset": 1974,
                     "endColumn": 100,
-                    "endOffset": 2460
+                    "endOffset": 2070
                 },
                 "from": {
                     "file": "/Users/sunghunjung/Desktop/EzShot/EzShotBeta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
@@ -390,12 +350,12 @@
             },
             {
                 "to": {
-                    "startLine": 29,
+                    "startLine": 22,
                     "startColumn": 4,
-                    "startOffset": 2465,
-                    "endLine": 30,
+                    "startOffset": 2075,
+                    "endLine": 23,
                     "endColumn": 12,
-                    "endOffset": 2607
+                    "endOffset": 2217
                 },
                 "from": {
                     "file": "/Users/sunghunjung/Desktop/EzShot/EzShotBeta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
@@ -411,12 +371,12 @@
             },
             {
                 "to": {
-                    "startLine": 31,
+                    "startLine": 24,
                     "startColumn": 4,
-                    "startOffset": 2612,
-                    "endLine": 32,
+                    "startOffset": 2222,
+                    "endLine": 25,
                     "endColumn": 12,
-                    "endOffset": 2748
+                    "endOffset": 2358
                 },
                 "from": {
                     "file": "/Users/sunghunjung/Desktop/EzShot/EzShotBeta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
@@ -432,11 +392,11 @@
             },
             {
                 "to": {
-                    "startLine": 33,
+                    "startLine": 26,
                     "startColumn": 4,
-                    "startOffset": 2753,
+                    "startOffset": 2363,
                     "endColumn": 102,
-                    "endOffset": 2851
+                    "endOffset": 2461
                 },
                 "from": {
                     "file": "/Users/sunghunjung/Desktop/EzShot/EzShotBeta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
@@ -451,11 +411,11 @@
             },
             {
                 "to": {
-                    "startLine": 34,
+                    "startLine": 27,
                     "startColumn": 4,
-                    "startOffset": 2856,
+                    "startOffset": 2466,
                     "endColumn": 118,
-                    "endOffset": 2970
+                    "endOffset": 2580
                 },
                 "from": {
                     "file": "/Users/sunghunjung/Desktop/EzShot/EzShotBeta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
@@ -470,11 +430,11 @@
             },
             {
                 "to": {
-                    "startLine": 35,
+                    "startLine": 28,
                     "startColumn": 4,
-                    "startOffset": 2975,
+                    "startOffset": 2585,
                     "endColumn": 106,
-                    "endOffset": 3077
+                    "endOffset": 2687
                 },
                 "from": {
                     "file": "/Users/sunghunjung/Desktop/EzShot/EzShotBeta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
@@ -489,11 +449,11 @@
             },
             {
                 "to": {
-                    "startLine": 36,
+                    "startLine": 29,
                     "startColumn": 4,
-                    "startOffset": 3082,
+                    "startOffset": 2692,
                     "endColumn": 102,
-                    "endOffset": 3180
+                    "endOffset": 2790
                 },
                 "from": {
                     "file": "/Users/sunghunjung/Desktop/EzShot/EzShotBeta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
@@ -508,12 +468,12 @@
             },
             {
                 "to": {
-                    "startLine": 37,
+                    "startLine": 30,
                     "startColumn": 4,
-                    "startOffset": 3185,
-                    "endLine": 38,
+                    "startOffset": 2795,
+                    "endLine": 31,
                     "endColumn": 12,
-                    "endOffset": 3327
+                    "endOffset": 2937
                 },
                 "from": {
                     "file": "/Users/sunghunjung/Desktop/EzShot/EzShotBeta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
@@ -529,12 +489,12 @@
             },
             {
                 "to": {
-                    "startLine": 39,
+                    "startLine": 32,
                     "startColumn": 4,
-                    "startOffset": 3332,
-                    "endLine": 40,
+                    "startOffset": 2942,
+                    "endLine": 33,
                     "endColumn": 12,
-                    "endOffset": 3482
+                    "endOffset": 3092
                 },
                 "from": {
                     "file": "/Users/sunghunjung/Desktop/EzShot/EzShotBeta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
@@ -550,12 +510,12 @@
             },
             {
                 "to": {
-                    "startLine": 41,
+                    "startLine": 34,
                     "startColumn": 4,
-                    "startOffset": 3487,
-                    "endLine": 42,
+                    "startOffset": 3097,
+                    "endLine": 35,
                     "endColumn": 12,
-                    "endOffset": 3653
+                    "endOffset": 3263
                 },
                 "from": {
                     "file": "/Users/sunghunjung/Desktop/EzShot/EzShotBeta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
@@ -571,12 +531,12 @@
             },
             {
                 "to": {
-                    "startLine": 43,
+                    "startLine": 36,
                     "startColumn": 4,
-                    "startOffset": 3658,
-                    "endLine": 44,
+                    "startOffset": 3268,
+                    "endLine": 37,
                     "endColumn": 12,
-                    "endOffset": 3802
+                    "endOffset": 3412
                 },
                 "from": {
                     "file": "/Users/sunghunjung/Desktop/EzShot/EzShotBeta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
@@ -592,12 +552,12 @@
             },
             {
                 "to": {
-                    "startLine": 45,
+                    "startLine": 38,
                     "startColumn": 4,
-                    "startOffset": 3807,
-                    "endLine": 46,
+                    "startOffset": 3417,
+                    "endLine": 39,
                     "endColumn": 12,
-                    "endOffset": 3967
+                    "endOffset": 3577
                 },
                 "from": {
                     "file": "/Users/sunghunjung/Desktop/EzShot/EzShotBeta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
@@ -613,12 +573,12 @@
             },
             {
                 "to": {
-                    "startLine": 47,
+                    "startLine": 40,
                     "startColumn": 4,
-                    "startOffset": 3972,
-                    "endLine": 48,
+                    "startOffset": 3582,
+                    "endLine": 41,
                     "endColumn": 12,
-                    "endOffset": 4124
+                    "endOffset": 3734
                 },
                 "from": {
                     "file": "/Users/sunghunjung/Desktop/EzShot/EzShotBeta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
@@ -634,12 +594,12 @@
             },
             {
                 "to": {
-                    "startLine": 49,
+                    "startLine": 42,
                     "startColumn": 4,
-                    "startOffset": 4129,
-                    "endLine": 50,
+                    "startOffset": 3739,
+                    "endLine": 43,
                     "endColumn": 12,
-                    "endOffset": 4275
+                    "endOffset": 3885
                 },
                 "from": {
                     "file": "/Users/sunghunjung/Desktop/EzShot/EzShotBeta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
@@ -655,11 +615,11 @@
             },
             {
                 "to": {
-                    "startLine": 51,
+                    "startLine": 44,
                     "startColumn": 4,
-                    "startOffset": 4280,
+                    "startOffset": 3890,
                     "endColumn": 118,
-                    "endOffset": 4394
+                    "endOffset": 4004
                 },
                 "from": {
                     "file": "/Users/sunghunjung/Desktop/EzShot/EzShotBeta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
@@ -674,12 +634,12 @@
             },
             {
                 "to": {
-                    "startLine": 52,
+                    "startLine": 45,
                     "startColumn": 4,
-                    "startOffset": 4399,
-                    "endLine": 53,
+                    "startOffset": 4009,
+                    "endLine": 46,
                     "endColumn": 12,
-                    "endOffset": 4543
+                    "endOffset": 4153
                 },
                 "from": {
                     "file": "/Users/sunghunjung/Desktop/EzShot/EzShotBeta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
@@ -695,12 +655,12 @@
             },
             {
                 "to": {
-                    "startLine": 54,
+                    "startLine": 47,
                     "startColumn": 4,
-                    "startOffset": 4548,
-                    "endLine": 55,
+                    "startOffset": 4158,
+                    "endLine": 48,
                     "endColumn": 12,
-                    "endOffset": 4692
+                    "endOffset": 4302
                 },
                 "from": {
                     "file": "/Users/sunghunjung/Desktop/EzShot/EzShotBeta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
@@ -716,11 +676,11 @@
             },
             {
                 "to": {
-                    "startLine": 56,
+                    "startLine": 49,
                     "startColumn": 4,
-                    "startOffset": 4697,
+                    "startOffset": 4307,
                     "endColumn": 111,
-                    "endOffset": 4804
+                    "endOffset": 4414
                 },
                 "from": {
                     "file": "/Users/sunghunjung/Desktop/EzShot/EzShotBeta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
@@ -735,11 +695,11 @@
             },
             {
                 "to": {
-                    "startLine": 57,
+                    "startLine": 50,
                     "startColumn": 4,
-                    "startOffset": 4809,
+                    "startOffset": 4419,
                     "endColumn": 146,
-                    "endOffset": 4951
+                    "endOffset": 4561
                 },
                 "from": {
                     "file": "/Users/sunghunjung/Desktop/EzShot/EzShotBeta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
@@ -754,12 +714,12 @@
             },
             {
                 "to": {
-                    "startLine": 58,
+                    "startLine": 51,
                     "startColumn": 4,
-                    "startOffset": 4956,
-                    "endLine": 59,
+                    "startOffset": 4566,
+                    "endLine": 52,
                     "endColumn": 12,
-                    "endOffset": 5104
+                    "endOffset": 4714
                 },
                 "from": {
                     "file": "/Users/sunghunjung/Desktop/EzShot/EzShotBeta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
@@ -775,12 +735,12 @@
             },
             {
                 "to": {
-                    "startLine": 60,
+                    "startLine": 53,
                     "startColumn": 4,
-                    "startOffset": 5109,
-                    "endLine": 61,
+                    "startOffset": 4719,
+                    "endLine": 54,
                     "endColumn": 12,
-                    "endOffset": 5251
+                    "endOffset": 4861
                 },
                 "from": {
                     "file": "/Users/sunghunjung/Desktop/EzShot/EzShotBeta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
@@ -796,11 +756,11 @@
             },
             {
                 "to": {
-                    "startLine": 62,
+                    "startLine": 55,
                     "startColumn": 4,
-                    "startOffset": 5256,
+                    "startOffset": 4866,
                     "endColumn": 74,
-                    "endOffset": 5326
+                    "endOffset": 4936
                 },
                 "from": {
                     "file": "/Users/sunghunjung/Desktop/EzShot/EzShotBeta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
@@ -815,11 +775,11 @@
             },
             {
                 "to": {
-                    "startLine": 63,
+                    "startLine": 56,
                     "startColumn": 4,
-                    "startOffset": 5331,
+                    "startOffset": 4941,
                     "endColumn": 88,
-                    "endOffset": 5415
+                    "endOffset": 5025
                 },
                 "from": {
                     "file": "/Users/sunghunjung/Desktop/EzShot/EzShotBeta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
@@ -834,11 +794,11 @@
             },
             {
                 "to": {
-                    "startLine": 64,
+                    "startLine": 57,
                     "startColumn": 4,
-                    "startOffset": 5420,
+                    "startOffset": 5030,
                     "endColumn": 86,
-                    "endOffset": 5502
+                    "endOffset": 5112
                 },
                 "from": {
                     "file": "/Users/sunghunjung/Desktop/EzShot/EzShotBeta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
@@ -853,11 +813,11 @@
             },
             {
                 "to": {
-                    "startLine": 65,
+                    "startLine": 58,
                     "startColumn": 4,
-                    "startOffset": 5507,
+                    "startOffset": 5117,
                     "endColumn": 100,
-                    "endOffset": 5603
+                    "endOffset": 5213
                 },
                 "from": {
                     "file": "/Users/sunghunjung/Desktop/EzShot/EzShotBeta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
@@ -872,12 +832,12 @@
             },
             {
                 "to": {
-                    "startLine": 66,
+                    "startLine": 59,
                     "startColumn": 4,
-                    "startOffset": 5608,
-                    "endLine": 109,
+                    "startOffset": 5218,
+                    "endLine": 102,
                     "endColumn": 12,
-                    "endOffset": 8671
+                    "endOffset": 8281
                 },
                 "from": {
                     "file": "/Users/sunghunjung/Desktop/EzShot/EzShotBeta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
@@ -893,12 +853,12 @@
             },
             {
                 "to": {
-                    "startLine": 110,
+                    "startLine": 103,
                     "startColumn": 4,
-                    "startOffset": 8676,
-                    "endLine": 112,
+                    "startOffset": 8286,
+                    "endLine": 105,
                     "endColumn": 12,
-                    "endOffset": 8857
+                    "endOffset": 8467
                 },
                 "from": {
                     "file": "/Users/sunghunjung/Desktop/EzShot/EzShotBeta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
@@ -914,12 +874,12 @@
             },
             {
                 "to": {
-                    "startLine": 113,
+                    "startLine": 106,
                     "startColumn": 4,
-                    "startOffset": 8862,
-                    "endLine": 156,
+                    "startOffset": 8472,
+                    "endLine": 149,
                     "endColumn": 12,
-                    "endOffset": 11937
+                    "endOffset": 11547
                 },
                 "from": {
                     "file": "/Users/sunghunjung/Desktop/EzShot/EzShotBeta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
@@ -935,12 +895,12 @@
             },
             {
                 "to": {
-                    "startLine": 157,
+                    "startLine": 150,
                     "startColumn": 4,
-                    "startOffset": 11942,
-                    "endLine": 159,
+                    "startOffset": 11552,
+                    "endLine": 152,
                     "endColumn": 12,
-                    "endOffset": 12135
+                    "endOffset": 11745
                 },
                 "from": {
                     "file": "/Users/sunghunjung/Desktop/EzShot/EzShotBeta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
@@ -956,12 +916,12 @@
             },
             {
                 "to": {
-                    "startLine": 160,
+                    "startLine": 153,
                     "startColumn": 4,
-                    "startOffset": 12140,
-                    "endLine": 161,
+                    "startOffset": 11750,
+                    "endLine": 154,
                     "endColumn": 12,
-                    "endOffset": 12258
+                    "endOffset": 11868
                 },
                 "from": {
                     "file": "/Users/sunghunjung/Desktop/EzShot/EzShotBeta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
@@ -977,12 +937,12 @@
             },
             {
                 "to": {
-                    "startLine": 162,
+                    "startLine": 155,
                     "startColumn": 4,
-                    "startOffset": 12263,
-                    "endLine": 163,
+                    "startOffset": 11873,
+                    "endLine": 156,
                     "endColumn": 12,
-                    "endOffset": 12381
+                    "endOffset": 11991
                 },
                 "from": {
                     "file": "/Users/sunghunjung/Desktop/EzShot/EzShotBeta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
@@ -998,12 +958,12 @@
             },
             {
                 "to": {
-                    "startLine": 164,
+                    "startLine": 157,
                     "startColumn": 4,
-                    "startOffset": 12386,
-                    "endLine": 165,
+                    "startOffset": 11996,
+                    "endLine": 158,
                     "endColumn": 12,
-                    "endOffset": 12494
+                    "endOffset": 12104
                 },
                 "from": {
                     "file": "/Users/sunghunjung/Desktop/EzShot/EzShotBeta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
@@ -1019,12 +979,12 @@
             },
             {
                 "to": {
-                    "startLine": 166,
+                    "startLine": 159,
                     "startColumn": 4,
-                    "startOffset": 12499,
-                    "endLine": 168,
+                    "startOffset": 12109,
+                    "endLine": 161,
                     "endColumn": 12,
-                    "endOffset": 12677
+                    "endOffset": 12287
                 },
                 "from": {
                     "file": "/Users/sunghunjung/Desktop/EzShot/EzShotBeta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
@@ -1040,12 +1000,12 @@
             },
             {
                 "to": {
-                    "startLine": 169,
+                    "startLine": 162,
                     "startColumn": 4,
-                    "startOffset": 12682,
-                    "endLine": 170,
+                    "startOffset": 12292,
+                    "endLine": 163,
                     "endColumn": 12,
-                    "endOffset": 12808
+                    "endOffset": 12418
                 },
                 "from": {
                     "file": "/Users/sunghunjung/Desktop/EzShot/EzShotBeta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
@@ -1061,12 +1021,12 @@
             },
             {
                 "to": {
-                    "startLine": 171,
+                    "startLine": 164,
                     "startColumn": 4,
-                    "startOffset": 12813,
-                    "endLine": 173,
+                    "startOffset": 12423,
+                    "endLine": 166,
                     "endColumn": 12,
-                    "endOffset": 13009
+                    "endOffset": 12619
                 },
                 "from": {
                     "file": "/Users/sunghunjung/Desktop/EzShot/EzShotBeta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
@@ -1082,11 +1042,11 @@
             },
             {
                 "to": {
-                    "startLine": 174,
+                    "startLine": 167,
                     "startColumn": 4,
-                    "startOffset": 13014,
+                    "startOffset": 12624,
                     "endColumn": 88,
-                    "endOffset": 13098
+                    "endOffset": 12708
                 },
                 "from": {
                     "file": "/Users/sunghunjung/Desktop/EzShot/EzShotBeta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
@@ -1101,11 +1061,11 @@
             },
             {
                 "to": {
-                    "startLine": 175,
+                    "startLine": 168,
                     "startColumn": 4,
-                    "startOffset": 13103,
+                    "startOffset": 12713,
                     "endColumn": 110,
-                    "endOffset": 13209
+                    "endOffset": 12819
                 },
                 "from": {
                     "file": "/Users/sunghunjung/Desktop/EzShot/EzShotBeta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
@@ -1120,11 +1080,11 @@
             },
             {
                 "to": {
-                    "startLine": 176,
+                    "startLine": 169,
                     "startColumn": 4,
-                    "startOffset": 13214,
+                    "startOffset": 12824,
                     "endColumn": 126,
-                    "endOffset": 13336
+                    "endOffset": 12946
                 },
                 "from": {
                     "file": "/Users/sunghunjung/Desktop/EzShot/EzShotBeta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
@@ -1139,11 +1099,11 @@
             },
             {
                 "to": {
-                    "startLine": 177,
+                    "startLine": 170,
                     "startColumn": 4,
-                    "startOffset": 13341,
+                    "startOffset": 12951,
                     "endColumn": 100,
-                    "endOffset": 13437
+                    "endOffset": 13047
                 },
                 "from": {
                     "file": "/Users/sunghunjung/Desktop/EzShot/EzShotBeta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
@@ -1158,11 +1118,11 @@
             },
             {
                 "to": {
-                    "startLine": 178,
+                    "startLine": 171,
                     "startColumn": 4,
-                    "startOffset": 13442,
+                    "startOffset": 13052,
                     "endColumn": 94,
-                    "endOffset": 13532
+                    "endOffset": 13142
                 },
                 "from": {
                     "file": "/Users/sunghunjung/Desktop/EzShot/EzShotBeta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
@@ -1177,11 +1137,11 @@
             },
             {
                 "to": {
-                    "startLine": 179,
+                    "startLine": 172,
                     "startColumn": 4,
-                    "startOffset": 13537,
+                    "startOffset": 13147,
                     "endColumn": 122,
-                    "endOffset": 13655
+                    "endOffset": 13265
                 },
                 "from": {
                     "file": "/Users/sunghunjung/Desktop/EzShot/EzShotBeta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
@@ -1196,11 +1156,11 @@
             },
             {
                 "to": {
-                    "startLine": 180,
+                    "startLine": 173,
                     "startColumn": 4,
-                    "startOffset": 13660,
+                    "startOffset": 13270,
                     "endColumn": 128,
-                    "endOffset": 13784
+                    "endOffset": 13394
                 },
                 "from": {
                     "file": "/Users/sunghunjung/Desktop/EzShot/EzShotBeta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
@@ -1215,11 +1175,11 @@
             },
             {
                 "to": {
-                    "startLine": 181,
+                    "startLine": 174,
                     "startColumn": 4,
-                    "startOffset": 13789,
+                    "startOffset": 13399,
                     "endColumn": 116,
-                    "endOffset": 13901
+                    "endOffset": 13511
                 },
                 "from": {
                     "file": "/Users/sunghunjung/Desktop/EzShot/EzShotBeta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
@@ -1234,12 +1194,12 @@
             },
             {
                 "to": {
-                    "startLine": 182,
+                    "startLine": 175,
                     "startColumn": 4,
-                    "startOffset": 13906,
-                    "endLine": 184,
+                    "startOffset": 13516,
+                    "endLine": 177,
                     "endColumn": 12,
-                    "endOffset": 14078
+                    "endOffset": 13688
                 },
                 "from": {
                     "file": "/Users/sunghunjung/Desktop/EzShot/EzShotBeta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
@@ -1255,11 +1215,11 @@
             },
             {
                 "to": {
-                    "startLine": 185,
+                    "startLine": 178,
                     "startColumn": 4,
-                    "startOffset": 14083,
+                    "startOffset": 13693,
                     "endColumn": 98,
-                    "endOffset": 14177
+                    "endOffset": 13787
                 },
                 "from": {
                     "file": "/Users/sunghunjung/Desktop/EzShot/EzShotBeta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
@@ -1274,12 +1234,12 @@
             },
             {
                 "to": {
-                    "startLine": 186,
+                    "startLine": 179,
                     "startColumn": 4,
-                    "startOffset": 14182,
-                    "endLine": 187,
+                    "startOffset": 13792,
+                    "endLine": 180,
                     "endColumn": 12,
-                    "endOffset": 14312
+                    "endOffset": 13922
                 },
                 "from": {
                     "file": "/Users/sunghunjung/Desktop/EzShot/EzShotBeta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
@@ -1295,12 +1255,12 @@
             },
             {
                 "to": {
-                    "startLine": 188,
+                    "startLine": 181,
                     "startColumn": 4,
-                    "startOffset": 14317,
-                    "endLine": 189,
+                    "startOffset": 13927,
+                    "endLine": 182,
                     "endColumn": 12,
-                    "endOffset": 14455
+                    "endOffset": 14065
                 },
                 "from": {
                     "file": "/Users/sunghunjung/Desktop/EzShot/EzShotBeta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
@@ -1316,12 +1276,12 @@
             },
             {
                 "to": {
-                    "startLine": 190,
+                    "startLine": 183,
                     "startColumn": 4,
-                    "startOffset": 14460,
-                    "endLine": 191,
+                    "startOffset": 14070,
+                    "endLine": 184,
                     "endColumn": 12,
-                    "endOffset": 14590
+                    "endOffset": 14200
                 },
                 "from": {
                     "file": "/Users/sunghunjung/Desktop/EzShot/EzShotBeta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
@@ -1337,12 +1297,12 @@
             },
             {
                 "to": {
-                    "startLine": 192,
+                    "startLine": 185,
                     "startColumn": 4,
-                    "startOffset": 14595,
-                    "endLine": 193,
+                    "startOffset": 14205,
+                    "endLine": 186,
                     "endColumn": 12,
-                    "endOffset": 14709
+                    "endOffset": 14319
                 },
                 "from": {
                     "file": "/Users/sunghunjung/Desktop/EzShot/EzShotBeta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
@@ -1358,12 +1318,12 @@
             },
             {
                 "to": {
-                    "startLine": 194,
+                    "startLine": 187,
                     "startColumn": 4,
-                    "startOffset": 14714,
-                    "endLine": 197,
+                    "startOffset": 14324,
+                    "endLine": 190,
                     "endColumn": 12,
-                    "endOffset": 14910
+                    "endOffset": 14520
                 },
                 "from": {
                     "file": "/Users/sunghunjung/Desktop/EzShot/EzShotBeta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
@@ -1379,12 +1339,12 @@
             },
             {
                 "to": {
-                    "startLine": 198,
+                    "startLine": 191,
                     "startColumn": 4,
-                    "startOffset": 14915,
-                    "endLine": 199,
+                    "startOffset": 14525,
+                    "endLine": 192,
                     "endColumn": 12,
-                    "endOffset": 15029
+                    "endOffset": 14639
                 },
                 "from": {
                     "file": "/Users/sunghunjung/Desktop/EzShot/EzShotBeta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
@@ -1400,11 +1360,11 @@
             },
             {
                 "to": {
-                    "startLine": 200,
+                    "startLine": 193,
                     "startColumn": 4,
-                    "startOffset": 15034,
+                    "startOffset": 14644,
                     "endColumn": 92,
-                    "endOffset": 15122
+                    "endOffset": 14732
                 },
                 "from": {
                     "file": "/Users/sunghunjung/Desktop/EzShot/EzShotBeta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
@@ -1419,11 +1379,11 @@
             },
             {
                 "to": {
-                    "startLine": 201,
+                    "startLine": 194,
                     "startColumn": 4,
-                    "startOffset": 15127,
+                    "startOffset": 14737,
                     "endColumn": 110,
-                    "endOffset": 15233
+                    "endOffset": 14843
                 },
                 "from": {
                     "file": "/Users/sunghunjung/Desktop/EzShot/EzShotBeta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
@@ -1438,11 +1398,11 @@
             },
             {
                 "to": {
-                    "startLine": 202,
+                    "startLine": 195,
                     "startColumn": 4,
-                    "startOffset": 15238,
+                    "startOffset": 14848,
                     "endColumn": 55,
-                    "endOffset": 15289
+                    "endOffset": 14899
                 },
                 "from": {
                     "file": "/Users/sunghunjung/Desktop/EzShot/EzShotBeta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
@@ -1457,12 +1417,12 @@
             },
             {
                 "to": {
-                    "startLine": 203,
+                    "startLine": 196,
                     "startColumn": 4,
-                    "startOffset": 15294,
-                    "endLine": 204,
+                    "startOffset": 14904,
+                    "endLine": 197,
                     "endColumn": 12,
-                    "endOffset": 15396
+                    "endOffset": 15006
                 },
                 "from": {
                     "file": "/Users/sunghunjung/Desktop/EzShot/EzShotBeta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
@@ -1478,12 +1438,12 @@
             },
             {
                 "to": {
-                    "startLine": 205,
+                    "startLine": 198,
                     "startColumn": 4,
-                    "startOffset": 15401,
-                    "endLine": 208,
+                    "startOffset": 15011,
+                    "endLine": 201,
                     "endColumn": 12,
-                    "endOffset": 15591
+                    "endOffset": 15201
                 },
                 "from": {
                     "file": "/Users/sunghunjung/Desktop/EzShot/EzShotBeta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
@@ -1499,12 +1459,12 @@
             },
             {
                 "to": {
-                    "startLine": 209,
+                    "startLine": 202,
                     "startColumn": 4,
-                    "startOffset": 15596,
-                    "endLine": 210,
+                    "startOffset": 15206,
+                    "endLine": 203,
                     "endColumn": 12,
-                    "endOffset": 15702
+                    "endOffset": 15312
                 },
                 "from": {
                     "file": "/Users/sunghunjung/Desktop/EzShot/EzShotBeta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
@@ -1520,12 +1480,12 @@
             },
             {
                 "to": {
-                    "startLine": 211,
+                    "startLine": 204,
                     "startColumn": 4,
-                    "startOffset": 15707,
-                    "endLine": 212,
+                    "startOffset": 15317,
+                    "endLine": 205,
                     "endColumn": 12,
-                    "endOffset": 15835
+                    "endOffset": 15445
                 },
                 "from": {
                     "file": "/Users/sunghunjung/Desktop/EzShot/EzShotBeta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
@@ -1541,11 +1501,11 @@
             },
             {
                 "to": {
-                    "startLine": 213,
+                    "startLine": 206,
                     "startColumn": 4,
-                    "startOffset": 15840,
+                    "startOffset": 15450,
                     "endColumn": 94,
-                    "endOffset": 15930
+                    "endOffset": 15540
                 },
                 "from": {
                     "file": "/Users/sunghunjung/Desktop/EzShot/EzShotBeta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
@@ -1560,11 +1520,11 @@
             },
             {
                 "to": {
-                    "startLine": 214,
+                    "startLine": 207,
                     "startColumn": 4,
-                    "startOffset": 15935,
+                    "startOffset": 15545,
                     "endColumn": 90,
-                    "endOffset": 16021
+                    "endOffset": 15631
                 },
                 "from": {
                     "file": "/Users/sunghunjung/Desktop/EzShot/EzShotBeta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
@@ -1579,11 +1539,11 @@
             },
             {
                 "to": {
-                    "startLine": 215,
+                    "startLine": 208,
                     "startColumn": 4,
-                    "startOffset": 16026,
+                    "startOffset": 15636,
                     "endColumn": 90,
-                    "endOffset": 16112
+                    "endOffset": 15722
                 },
                 "from": {
                     "file": "/Users/sunghunjung/Desktop/EzShot/EzShotBeta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
@@ -1598,11 +1558,11 @@
             },
             {
                 "to": {
-                    "startLine": 216,
+                    "startLine": 209,
                     "startColumn": 4,
-                    "startOffset": 16117,
+                    "startOffset": 15727,
                     "endColumn": 116,
-                    "endOffset": 16229
+                    "endOffset": 15839
                 },
                 "from": {
                     "file": "/Users/sunghunjung/Desktop/EzShot/EzShotBeta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
@@ -1617,12 +1577,12 @@
             },
             {
                 "to": {
-                    "startLine": 217,
+                    "startLine": 210,
                     "startColumn": 4,
-                    "startOffset": 16234,
-                    "endLine": 218,
+                    "startOffset": 15844,
+                    "endLine": 211,
                     "endColumn": 12,
-                    "endOffset": 16368
+                    "endOffset": 15978
                 },
                 "from": {
                     "file": "/Users/sunghunjung/Desktop/EzShot/EzShotBeta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
@@ -1638,12 +1598,12 @@
             },
             {
                 "to": {
-                    "startLine": 219,
+                    "startLine": 212,
                     "startColumn": 4,
-                    "startOffset": 16373,
-                    "endLine": 225,
+                    "startOffset": 15983,
+                    "endLine": 218,
                     "endColumn": 12,
-                    "endOffset": 16721
+                    "endOffset": 16331
                 },
                 "from": {
                     "file": "/Users/sunghunjung/Desktop/EzShot/EzShotBeta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
@@ -1659,12 +1619,12 @@
             },
             {
                 "to": {
-                    "startLine": 226,
+                    "startLine": 219,
                     "startColumn": 4,
-                    "startOffset": 16726,
-                    "endLine": 232,
+                    "startOffset": 16336,
+                    "endLine": 225,
                     "endColumn": 12,
-                    "endOffset": 17086
+                    "endOffset": 16696
                 },
                 "from": {
                     "file": "/Users/sunghunjung/Desktop/EzShot/EzShotBeta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
@@ -1680,12 +1640,12 @@
             },
             {
                 "to": {
-                    "startLine": 233,
+                    "startLine": 226,
                     "startColumn": 4,
-                    "startOffset": 17091,
-                    "endLine": 242,
+                    "startOffset": 16701,
+                    "endLine": 235,
                     "endColumn": 12,
-                    "endOffset": 17766
+                    "endOffset": 17376
                 },
                 "from": {
                     "file": "/Users/sunghunjung/Desktop/EzShot/EzShotBeta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
@@ -1701,11 +1661,11 @@
             },
             {
                 "to": {
-                    "startLine": 243,
+                    "startLine": 236,
                     "startColumn": 4,
-                    "startOffset": 17771,
+                    "startOffset": 17381,
                     "endColumn": 56,
-                    "endOffset": 17823
+                    "endOffset": 17433
                 },
                 "from": {
                     "file": "/Users/sunghunjung/Desktop/EzShot/EzShotBeta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
@@ -1720,11 +1680,11 @@
             },
             {
                 "to": {
-                    "startLine": 244,
+                    "startLine": 237,
                     "startColumn": 4,
-                    "startOffset": 17828,
+                    "startOffset": 17438,
                     "endColumn": 57,
-                    "endOffset": 17881
+                    "endOffset": 17491
                 },
                 "from": {
                     "file": "/Users/sunghunjung/Desktop/EzShot/EzShotBeta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
