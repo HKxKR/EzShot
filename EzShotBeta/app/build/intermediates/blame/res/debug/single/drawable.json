@@ -8,6 +8,10 @@
         "source": "/Users/sunghunjung/Desktop/EzShot/EzShotBeta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_list_selector_holo_light.xml"
     },
     {
+        "merged": "/Users/sunghunjung/Desktop/EzShot/EzShotBeta/app/build/intermediates/res/merged/debug/drawable/iclogo.png",
+        "source": "/Users/sunghunjung/Desktop/EzShot/EzShotBeta/app/src/main/res/drawable/iclogo.png"
+    },
+    {
         "merged": "/Users/sunghunjung/Desktop/EzShot/EzShotBeta/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
         "source": "/Users/sunghunjung/Desktop/EzShot/EzShotBeta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_switch_thumb_material.xml"
     },
