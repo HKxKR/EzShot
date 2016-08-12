@@ -1,11 +1,7 @@
 [
     {
-        "merged": "/Users/sunghunjung/Downloads/chatheads/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/face1.png",
-        "source": "/Users/sunghunjung/Downloads/chatheads/app/src/main/res/drawable-xhdpi/face1.png"
-    },
-    {
-        "merged": "/Users/sunghunjung/Downloads/chatheads/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_launcher.png",
-        "source": "/Users/sunghunjung/Downloads/chatheads/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+        "merged": "/Users/sunghunjung/Desktop/EzShot/chatheads/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/button.png",
+        "source": "/Users/sunghunjung/Desktop/EzShot/chatheads/app/src/main/res/drawable-xhdpi/button.png"
     },
     {
         "merged": "/Users/sunghunjung/Desktop/EzShot/chatheads/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/iclogo.png",
@@ -14,9 +10,5 @@
     {
         "merged": "/Users/sunghunjung/Desktop/EzShot/chatheads/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_launcher.png",
         "source": "/Users/sunghunjung/Desktop/EzShot/chatheads/app/src/main/res/drawable-xhdpi/ic_launcher.png"
-    },
-    {
-        "merged": "/Users/sunghunjung/Desktop/EzShot/chatheads/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/face1.png",
-        "source": "/Users/sunghunjung/Desktop/EzShot/chatheads/app/src/main/res/drawable-xhdpi/face1.png"
     }
 ]
