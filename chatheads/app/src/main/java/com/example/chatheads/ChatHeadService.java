@@ -23,7 +23,7 @@ public class ChatHeadService extends Service {
 		windowManager = (WindowManager) getSystemService(WINDOW_SERVICE);
 
 		chatHead = new ImageView(this);
-		chatHead.setImageResource(R.drawable.button);
+		chatHead.setImageResource(R.drawable.screenshoticon);
 		//chatHead.getLayoutParams().height = 3;
 		//chatHead.getLayoutParams().width  = 3;
 
