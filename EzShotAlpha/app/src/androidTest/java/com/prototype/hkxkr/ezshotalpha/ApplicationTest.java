@@ -1,4 +1,4 @@
-package com.summer_project.hkxkr.ezshotalpha;
+package com.prototype.hkxkr.ezshotalpha;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

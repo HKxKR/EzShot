@@ -1,4 +1,4 @@
-package com.summer_project.hkxkr.ezshotalpha;
+package com.prototype.hkxkr.ezshotalpha;
 
 import org.junit.Test;
 
