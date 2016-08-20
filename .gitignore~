@@ -6,4 +6,6 @@ gradle/*
 idea/*
 */idea/*
 */gradle/*
-
+build/*
+*/build/*
+*/app/*
