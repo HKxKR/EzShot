@@ -1,8 +1,9 @@
-*.iml
-.gradle
-/local.properties
-.DS_Store
-/build
-/captures
-/.idea/
-
+/build/*
+/gradle/*
+.gradle/&
+.idea/
+build.gradle
+grade.properties
+gradlew
+gradlew.bat
+settings.gradle
