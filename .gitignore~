@@ -9,3 +9,4 @@ idea/*
 build/*
 */build/*
 */app/*
+*/build.gradle
