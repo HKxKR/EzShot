@@ -1,0 +1,14 @@
+*/.gradle/*
+*/.idea/*
+*/build/*
+*/gradle/*
+/captures
+*.iml
+*/.gradle.properties
+*/gradlew
+*/gradlew.bat
+*/local.properties
+*/settings.gradle
+*/app/build/*
+*/app/build.gradle
+*/app/proguard-rules.pro
