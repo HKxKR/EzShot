@@ -12,3 +12,5 @@
 */app/build/*
 */app/build.gradle
 */app/proguard-rules.pro
+*/build.gradle
+*/gradle.properties
